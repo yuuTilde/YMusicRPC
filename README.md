@@ -3,5 +3,5 @@
 
 ###### USED:
 * [yandexmusicrpc](https://github.com/schwarzalexey/yandexmusicrpc)
-* [Yandex Music API](https://github.com/MarshalX/yandex-music-api)
 * [pypresence](https://github.com/qwertyquerty/pypresence)
+* [Yandex Music API](https://github.com/MarshalX/yandex-music-api)
