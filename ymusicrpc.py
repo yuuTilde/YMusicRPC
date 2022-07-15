@@ -35,7 +35,7 @@ def get_artists():
 
 
 config = configparser.ConfigParser()
-config.read("config.ini")
+config.read("cfg.ini")
 if config.get("yandex", "token") == "None":
     print("Edit token in config.ini")
 else:
