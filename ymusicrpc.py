@@ -1,6 +1,7 @@
+import configparser
+
 import pypresence
 from yandex_music import Client
-import configparser
 
 client_id = "978995592736944188"
 
