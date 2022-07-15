@@ -29,7 +29,7 @@ def get_label():
 def get_artists():
     try:
         track = get_track()
-        artists = "".join(track.artists_name())
+        artists = "by " + "".join(track.artists_name())
         return f"{artists}"
     except Exception as e:
         return "No track"
